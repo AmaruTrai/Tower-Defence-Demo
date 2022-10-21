@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c33d4fabcad9af34eb213ad85b08204b, type: 3}
+  m_Name: TowerTier0
+  m_EditorClassIdentifier: 
+  attackRange: 0
+  attackRate: 0
+  cost: 0
+  icon: {fileID: 0}
+  nextTiers:
+  - {fileID: 11400000, guid: b5ad4cc5ff69eda4eba95f37ac0fd06e, type: 2}
+  prefab: {fileID: 0}
